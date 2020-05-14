@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63274b7-0470-4b67-88a0-44577d5c83df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/AllTerritories_Mannequin_26212202_F6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/Ferrari.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/adidas-x-fb-eye-print-pre-warm-up-top_14191134_24393756_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/aventador.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/balenciaga-incognito-trench-coat_14184023_23282644_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/balenciaga-paris-logo-cotton-t-shirt_14590815_23602929_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/balenciaga-two-tone-logo-track-jacket_14590771_24289515_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/balmain-paris-logo-print-t-shirt_14217543_23337996_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/barbour-bedale-wax-jacket_14183550_20508294_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/canada-goose-hybridge-lite-quilted-down-jacket_14916341_24783822_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/civic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/corolla.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/fendi-brown-mania-logo-sock-sneakers_14630431_25141262_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/fpm-milano-blue-spinner-light-68-holdall-suitcase_14482881_23001552_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/g63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/gulstream.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/harrier.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/hawker_4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/lana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/mazda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/merc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/moncler-logo-print-t-shirt_14689221_24959466_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/moncler-seine-zipped-jacket_14689252_25136053_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/prada-black-pegasus-chunky-sneakers_14122621_20910648_1920.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/r8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/w2000.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/shop/woolrich-arctic-faux-fur-trim-parka_14193912_22792543_1920.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -33,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2278">
+            <state relative-caret-position="422">
               <caret line="137" column="19" selection-start-line="137" selection-end-line="137" selection-end-column="19" />
               <folding>
                 <element signature="e#307#316#0" expanded="true" />
@@ -145,18 +171,18 @@
             <path>
               <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,14 +399,20 @@
       <option name="project" value="LOCAL" />
       <updated>1588892264268</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fri">
+      <created>1588914370228</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1588914370228</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1513" height="1013" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1352265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1352265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -391,7 +423,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23755656" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23755656" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -518,16 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2278">
-          <caret line="137" column="19" selection-start-line="137" selection-end-line="137" selection-end-column="19" />
-          <folding>
-            <element signature="e#307#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -565,6 +587,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="137" column="19" selection-start-line="137" selection-end-line="137" selection-end-column="19" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
