@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63274b7-0470-4b67-88a0-44577d5c83df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/media/shop/AllTerritories_Mannequin_26212202_F6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/Ferrari.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/adidas-x-fb-eye-print-pre-warm-up-top_14191134_24393756_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/aventador.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/balenciaga-incognito-trench-coat_14184023_23282644_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/balenciaga-paris-logo-cotton-t-shirt_14590815_23602929_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/balenciaga-two-tone-logo-track-jacket_14590771_24289515_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/balmain-paris-logo-print-t-shirt_14217543_23337996_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/barbour-bedale-wax-jacket_14183550_20508294_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/canada-goose-hybridge-lite-quilted-down-jacket_14916341_24783822_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/civic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/corolla.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/fendi-brown-mania-logo-sock-sneakers_14630431_25141262_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/fpm-milano-blue-spinner-light-68-holdall-suitcase_14482881_23001552_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/g63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/gulstream.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/harrier.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/hawker_4000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/lana.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/mazda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/merc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/moncler-logo-print-t-shirt_14689221_24959466_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/moncler-seine-zipped-jacket_14689252_25136053_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/prada-black-pegasus-chunky-sneakers_14122621_20910648_1920.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/r8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/w2000.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/shop/woolrich-arctic-faux-fur-trim-parka_14193912_22792543_1920.jpg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/Air_jordan_VIs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/balenciaga-incognito-trench-coat_14184023_23282644_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/balenciaga-paris-logo-cotton-t-shirt_14590815_23602929_1920.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/balenciaga-two-tone-logo-track-jacket_14590771_24289515_1920.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/jordan XIV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/prada-black-pegasus-chunky-sneakers_14122621_20910648_1920.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/shoe-sneaker-fashion-kick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/shop/unpaired-adidas-yeezy-boost-350-v2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,31 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-              <folding>
-                <element signature="e#1#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/templates/index0.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="137" column="19" selection-start-line="137" selection-end-line="137" selection-end-column="19" />
+            <state relative-caret-position="2278">
+              <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
               <folding>
                 <element signature="e#307#316#0" expanded="true" />
               </folding>
@@ -106,14 +68,47 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop/apps.py">
+        <entry file="file://$PROJECT_DIR$/shop/tests.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop/models.py">
+        <entry file="file://$PROJECT_DIR$/shop/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/templates/shop/index.html">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/templates/shop/prodView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -149,10 +144,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-14" />
-    <option name="width" value="3026" />
-    <option name="height" value="2026" />
+    <option name="x" value="1882" />
+    <option name="width" value="1128" />
+    <option name="height" value="2010" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,13 +170,8 @@
             <path>
               <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,13 +395,27 @@
       <option name="project" value="LOCAL" />
       <updated>1588914370228</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="fri">
+      <created>1589452751109</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1589452751109</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fri">
+      <created>1589452760817</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589452760817</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1513" height="1013" extended-state="6" />
+    <frame x="941" y="0" width="564" height="1005" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1352265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3773585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -423,32 +426,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23755656" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23972602" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1352265" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23755656" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
@@ -469,14 +453,6 @@
         <state>
           <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/templates/shop/prodView.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/templates/shop/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/templates/shop/tracker.html">
@@ -507,35 +483,13 @@
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="113" column="7" lean-forward="true" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/templates/shop/index1.html" />
     <entry file="file://$PROJECT_DIR$/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="170">
           <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
           <folding>
             <element signature="e#1#33#0" expanded="true" />
@@ -547,6 +501,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -579,21 +549,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop/apps.py">
+    <entry file="file://$PROJECT_DIR$/shop/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop/models.py">
+    <entry file="file://$PROJECT_DIR$/shop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/shop/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/shop/prodView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+    <entry file="file://$PROJECT_DIR$/shop/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="137" column="19" selection-start-line="137" selection-end-line="137" selection-end-column="19" />
+        <state relative-caret-position="833">
+          <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
           <folding>
-            <element signature="e#307#316#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
