@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e63274b7-0470-4b67-88a0-44577d5c83df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/shop/Air_jordan_VIs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/balenciaga-incognito-trench-coat_14184023_23282644_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/balenciaga-paris-logo-cotton-t-shirt_14590815_23602929_1920.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/balenciaga-two-tone-logo-track-jacket_14590771_24289515_1920.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/jordan XIV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/prada-black-pegasus-chunky-sneakers_14122621_20910648_1920.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/shoe-sneaker-fashion-kick.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/shop/unpaired-adidas-yeezy-boost-350-v2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,18 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2278">
-              <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
-              <folding>
-                <element signature="e#307#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/views.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +50,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shop/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
+            <state relative-caret-position="592">
               <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
@@ -144,9 +123,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1882" />
-    <option name="width" value="1128" />
-    <option name="height" value="2010" />
+    <option name="x" value="-12" />
+    <option name="y" value="2" />
+    <option name="width" value="3020" />
+    <option name="height" value="2008" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,16 +146,11 @@
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +159,9 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ahnaf\PycharmProjects\ecommerce\media\shop" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ahnaf\PycharmProjects\ecommerce\mysite\templates" />
       <recent name="C:\Users\ahnaf\PycharmProjects\ecommerce\shop\templates\shop" />
@@ -409,13 +386,20 @@
       <option name="project" value="LOCAL" />
       <updated>1589452760817</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="fri">
+      <created>1590003116712</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1590003116712</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="941" y="0" width="564" height="1005" extended-state="0" />
+    <frame x="-7" y="-7" width="1513" height="1013" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3773585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1352265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -426,8 +410,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23972602" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989858" visible="true" weight="0.23755656" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010142" side_tool="true" weight="0.23755656" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -520,6 +504,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/media/shop/Air_jordan_VIs.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -577,7 +564,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
+        <state relative-caret-position="592">
           <caret line="49" column="56" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
